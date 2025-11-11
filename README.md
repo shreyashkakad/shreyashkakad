@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="./gokuu" alt="gokuSayingHi" />
+</p>
 
-<!--
-**shreyashkakad/shreyashkakad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hii there, i'm `shreyash` !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="font-family: monospace;">
+i write code.<br>
+mostly into web dev - trying to make stuff that actually works.<br> 
+i like to read manga and watch anime.
+<br>
+<br>
+you can check out my <a href="https://twitter.com/shreyash0x3" target="_blank">twitter</a> where i just post
+</span>
