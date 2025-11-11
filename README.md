@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gokuu" alt="gokuSayingHi" />
+  <img src="./gokuu" alt="gokuSayingHi" width="200" />
 </p>
 
 # hii there, i'm `shreyash` !
